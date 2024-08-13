@@ -1653,7 +1653,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/admin#entry"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-admin#entry"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1670,7 +1670,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/engineering#start"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-engineering#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1687,7 +1687,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/business#start"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-business#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1704,7 +1704,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/music-lab#start"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-music-lab#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1721,7 +1721,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/cobra-connections-1-10#start"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/meeting-rooms#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1738,7 +1738,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/fitness-center#start"
+                         "value":"https:\/\/play.workadventu.re\/@\/choice-charter-school\/charterverse\/choice-charter-school-fitness-center#start"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -3510,7 +3510,7 @@
          "value":"The Choice Charter School Virtual Campus Map is the sole property of 100 Roads Design LLC. All rights are reserved by 100 Roads Design LLC. All contents of the map may not be reproduced, distributed (for sale or otherwise), or create derivative works of the copyrighted work without the express written permission of 100 Roads Design LLC."
         }],
  "renderorder":"right-down",
- "tiledversion":"1.10.1",
+ "tiledversion":"1.10.2",
  "tileheight":32,
  "tilesets":[
         {
