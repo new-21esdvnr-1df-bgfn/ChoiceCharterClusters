@@ -218,6 +218,12 @@
          "id":3,
          "name":"collides",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"speaker"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":149,
@@ -3378,6 +3384,11 @@
                          "value":"white-1"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3400,6 +3411,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-2"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3426,6 +3442,11 @@
                          "value":"white-3"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3448,6 +3469,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-4"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3474,6 +3500,11 @@
                          "value":"white-5"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3496,6 +3527,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-6"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3522,6 +3558,11 @@
                          "value":"white-7"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3544,6 +3585,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-8"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3570,6 +3616,11 @@
                          "value":"white-9"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3592,6 +3643,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-10"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3618,6 +3674,11 @@
                          "value":"white-11"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3640,6 +3701,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-12"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3666,6 +3732,11 @@
                          "value":"white-13"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3688,6 +3759,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-14"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3714,6 +3790,11 @@
                          "value":"white-15"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3736,6 +3817,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-16"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3762,6 +3848,11 @@
                          "value":"white-17"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3784,6 +3875,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-18"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3810,6 +3906,11 @@
                          "value":"white-19"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3832,6 +3933,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-20"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3858,6 +3964,11 @@
                          "value":"white-21"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3880,6 +3991,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-22"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3906,6 +4022,11 @@
                          "value":"white-23"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3928,6 +4049,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-24"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -3954,6 +4080,11 @@
                          "value":"white-25"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -3976,6 +4107,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-26"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4002,6 +4138,11 @@
                          "value":"white-27"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4024,6 +4165,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-28"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4050,6 +4196,11 @@
                          "value":"white-29"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4072,6 +4223,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-30"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4098,6 +4254,11 @@
                          "value":"white-31"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4120,6 +4281,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-32"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4146,6 +4312,11 @@
                          "value":"white-33"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4168,6 +4339,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-34"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4194,6 +4370,11 @@
                          "value":"white-35"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4216,6 +4397,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-36"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4242,6 +4428,11 @@
                          "value":"white-37"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4264,6 +4455,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-38"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4290,6 +4486,11 @@
                          "value":"white-39"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4312,6 +4513,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-40"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4338,6 +4544,11 @@
                          "value":"white-41"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4360,6 +4571,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-42"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4386,6 +4602,11 @@
                          "value":"white-43"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4408,6 +4629,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-44"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4434,6 +4660,11 @@
                          "value":"white-45"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4456,6 +4687,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-46"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4482,6 +4718,11 @@
                          "value":"white-47"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4504,6 +4745,11 @@
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"white-48"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -4530,6 +4776,11 @@
                          "value":"white-49"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4554,6 +4805,11 @@
                          "value":"white-50"
                         }, 
                         {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }, 
+                        {
                          "name":"jitsiTrigger",
                          "type":"string",
                          "value":"onaction"
@@ -4562,6 +4818,105 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"Press SPACE to open Jitsi"
+                        }]
+                }, 
+                {
+                 "id":762,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":766,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":770,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":774,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":778,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":782,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":786,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":790,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":794,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":798,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
+                        }]
+                }, 
+                {
+                 "id":799,
+                 "properties":[
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker"
                         }]
                 }],
          "tilewidth":32
