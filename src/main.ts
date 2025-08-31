@@ -522,43 +522,7 @@ async function sendPlayerData(firstPing: boolean) {
       return;
     }
     const roomId = WA.room.id;
-    /// New timestamp code const timestamp = Date.now()
-    const dtf = new Intl.DateTimeFormat("en-US", {
-      timeZone: "America/Chicago",
-      hour12: false,
-      year: "numeric",
-      month: "2-digit",
-      day: "2-digit",
-      hour: "2-digit",
-      minute: "2-digit",
-      second: "2-digit",
-    });
-    
-    const partsArr = dtf.formatToParts(new Date());
-    
-    // Initialize defaults
-    const parts = { year: 1970, month: 1, day: 1, hour: 0, minute: 0, second: 0 };
-    
-    for (const p of partsArr) {
-      switch (p.type) {
-        case "year": parts.year = parseInt(p.value, 10); break;
-        case "month": parts.month = parseInt(p.value, 10); break;
-        case "day": parts.day = parseInt(p.value, 10); break;
-        case "hour": parts.hour = parseInt(p.value, 10); break;
-        case "minute": parts.minute = parseInt(p.value, 10); break;
-        case "second": parts.second = parseInt(p.value, 10); break;
-      }
-    }
-    
-    const timestamp = Date.UTC(
-      parts.year,
-      parts.month - 1, // JS months are 0-based
-      parts.day,
-      parts.hour,
-      parts.minute,
-      parts.second
-    );
-    /// End new timestamp code
+    const timestamp = Date.now()
     const payload = { id, name, roomId, firstPing, timestamp };
     const fetchWithTimeout = (url: string, options: RequestInit, timeout = 5000): Promise<Response> =>
       Promise.race([
