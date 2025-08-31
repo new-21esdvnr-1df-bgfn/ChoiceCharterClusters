@@ -522,7 +522,7 @@ async function sendPlayerData(firstPing: boolean) {
       return;
     }
     const roomId = WA.room.id;
-    const timestamp = Date.now();
+    const timestamp = new Date(new Date().toLocaleString("en-US", { timeZone: "America/Chicago" })).getTime();
     const payload = { id, name, roomId, firstPing, timestamp };
     const fetchWithTimeout = (url: string, options: RequestInit, timeout = 5000): Promise<Response> =>
       Promise.race([
