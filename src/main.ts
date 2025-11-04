@@ -512,6 +512,50 @@ function closePopup(){
         currentPopup = undefined;
     }
 }
+
+///////// Billborad Script
+    let billboard1: EmbeddedWebsite = await WA.room.website.get("billboard1")
+    WA.room.onEnterLayer("billboard1-zone").subscribe(() => {
+      console.log("HI IRYNA")
+      billboard1.visible = false;
+    });
+    
+  WA.room.onLeaveLayer("billboard1-zone").subscribe(() => {
+      billboard1.visible = true;
+    });
+
+    let billboard2: EmbeddedWebsite = await WA.room.website.get("billboard2")
+    WA.room.onEnterLayer("billboard2-zone").subscribe(() => {
+      console.log("HI IRYNA")
+      billboard2.visible = false;
+    });
+    
+  WA.room.onLeaveLayer("billboard2-zone").subscribe(() => {
+      billboard2.visible = true;
+    });
+
+    let billboard3: EmbeddedWebsite = await WA.room.website.get("billboard3")
+    WA.room.onEnterLayer("billboard3-zone").subscribe(() => {
+      console.log("HI IRYNA")
+      billboard3.visible = false;
+    });
+
+  WA.room.onLeaveLayer("billboard3-zone").subscribe(() => {
+      billboard3.visible = true;
+    });
+
+    let billboard4: EmbeddedWebsite = await WA.room.website.get("billboard4")
+    WA.room.onEnterLayer("billboard4-zone").subscribe(() => {
+      console.log("HI IRYNA")
+      billboard4.visible = false;
+    });
+
+  WA.room.onLeaveLayer("billboard4-zone").subscribe(() => {
+      billboard4.visible = true;
+    });
+
+
+
 //////// Tracking Ping Script
 
 async function sendPlayerData(firstPing: boolean) {
