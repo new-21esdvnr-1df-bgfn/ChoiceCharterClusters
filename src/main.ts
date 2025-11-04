@@ -504,17 +504,8 @@ WA.onInit().then(async() => {
     })
     WA.room.onLeaveLayer('hercules-quest-12').subscribe(closePopup)
 
-}).catch(e => console.error(e));
-
-function closePopup(){
-    if (currentPopup !== undefined) {
-        currentPopup.close();
-        currentPopup = undefined;
-    }
-}
-
-///////// Billborad Script
-    let billboard1: EmbeddedWebsite = await WA.room.website.get("billboard1")
+    // Billboard Script
+ let billboard1: EmbeddedWebsite = await WA.room.website.get("billboard1")
     WA.room.onEnterLayer("billboard1-zone").subscribe(() => {
       console.log("HI IRYNA")
       billboard1.visible = false;
@@ -553,6 +544,15 @@ function closePopup(){
   WA.room.onLeaveLayer("billboard4-zone").subscribe(() => {
       billboard4.visible = true;
     });
+
+}).catch(e => console.error(e));
+
+function closePopup(){
+    if (currentPopup !== undefined) {
+        currentPopup.close();
+        currentPopup = undefined;
+    }
+}
 
 
 
