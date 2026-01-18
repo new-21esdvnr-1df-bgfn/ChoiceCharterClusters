@@ -1701,33 +1701,6 @@
                 }, 
                 {
                  "height":224,
-                 "id":10,
-                 "name":"lobby-1",
-                 "properties":[
-                        {
-                         "name":"openTab",
-                         "type":"string",
-                         "value":"https:\/\/choicecs.agilixbuzz.com\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Choice Charter Buzz"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":224,
-                 "x":1024,
-                 "y":2176
-                }, 
-                {
-                 "height":224,
                  "id":11,
                  "name":"lobby-2",
                  "properties":[
@@ -1752,33 +1725,6 @@
                  "width":224,
                  "x":1536,
                  "y":2176
-                }, 
-                {
-                 "height":192,
-                 "id":17,
-                 "name":"lobby-3",
-                 "properties":[
-                        {
-                         "name":"openTab",
-                         "type":"string",
-                         "value":"https:\/\/www.zooniverse.org\/projects\/ajpiper\/criminal-characters"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Criminal Characters"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":256,
-                 "x":1056,
-                 "y":1600
                 }, 
                 {
                  "height":54,
@@ -2080,7 +2026,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQsxn84YQ2qhBfYSgw7hATuQVKXg1jIQf_dsxy3ammHWid9XqxGorP8eGDjUN8k1iUVbVCRyYveBo8M\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vT8yH3BFM5l__7KMJ7cZdj-kyW4cyLlcafswShDfGsJ2FhsfXtcHJA9oXTItSTLtkU1ZOFlvE6VDwzK\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -2097,14 +2043,14 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQsxn84YQ2qhBfYSgw7hATuQVKXg1jIQf_dsxy3ammHWid9XqxGorP8eGDjUN8k1iUVbVCRyYveBo8M\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQCp_21wLvmG2-b_JV-G-VuxexPHAMyf6VKNZzR4NgpXXIiRl__x-JGC1KBSHvcwgoyw1cF24SorXDZ\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
                         }],
                  "rotation":0,
                  "type":"website",
                  "visible":true,
                  "width":512,
                  "x":2496,
-                 "y":1792
+                 "y":1376
                 }, 
                 {
                  "height":288,
@@ -2114,7 +2060,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQsxn84YQ2qhBfYSgw7hATuQVKXg1jIQf_dsxy3ammHWid9XqxGorP8eGDjUN8k1iUVbVCRyYveBo8M\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vRFVakw7eK1J6Io-f0KeXxXVqDGj402gdcuMLdhzvmsPa4VjiWTcWc3qx1cUc5l-mWSRovOFIyLcWh3\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -2131,7 +2077,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vQsxn84YQ2qhBfYSgw7hATuQVKXg1jIQf_dsxy3ammHWid9XqxGorP8eGDjUN8k1iUVbVCRyYveBo8M\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
+                         "value":"https:\/\/docs.google.com\/presentation\/d\/e\/2PACX-1vTlQSrBszRaBArBJfXvfZmzEy1338WemfRyNINDSTuriLnP5UVcPyECchRisY74IFtt9r9y8U5o62zX\/pubembed?start=false&loop=false&delayms=3000&rm=minimal"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -2166,6 +2112,33 @@
                  "width":352,
                  "x":2976,
                  "y":1920
+                }, 
+                {
+                 "height":192,
+                 "id":84,
+                 "name":"fire-3",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.2
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"fire.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":256,
+                 "x":3936,
+                 "y":1024
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3173,7 +3146,7 @@
          "y":0
         }],
  "nextlayerid":34,
- "nextobjectid":84,
+ "nextobjectid":85,
  "orientation":"orthogonal",
  "properties":[
         {
