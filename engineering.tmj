@@ -1758,6 +1758,33 @@
                  "width":448,
                  "x":1184,
                  "y":1888
+                }, 
+                {
+                 "height":192,
+                 "id":83,
+                 "name":"giraffe",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.2
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"giraffe.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":256,
+                 "x":2112,
+                 "y":1888
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2972,7 +2999,7 @@
          "y":0
         }],
  "nextlayerid":31,
- "nextobjectid":83,
+ "nextobjectid":84,
  "orientation":"orthogonal",
  "properties":[
         {
