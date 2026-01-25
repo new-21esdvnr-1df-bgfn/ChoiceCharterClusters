@@ -1700,33 +1700,6 @@
                  "y":1888
                 }, 
                 {
-                 "height":224,
-                 "id":11,
-                 "name":"lobby-2",
-                 "properties":[
-                        {
-                         "name":"openTab",
-                         "type":"string",
-                         "value":"https:\/\/choicecs.agilixbuzz.com\/"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Choice Charter Buzz"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":224,
-                 "x":1536,
-                 "y":2176
-                }, 
-                {
                  "height":54,
                  "id":58,
                  "name":"name-plate-bsn-1",
